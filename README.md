@@ -1,0 +1,1 @@
+This is a simple Pong game created to understand the basics of game development and browser-based interactivity. The game is built using fundamental web technologies and includes classic paddle and ball mechanics. This project helped me learn how user input, animation, and game logic work together in a web environment.
